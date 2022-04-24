@@ -45,3 +45,38 @@ This GitHub includes the following documents, which together comprise our projec
 5. README.md - This README!
 
 # Modeling
+
+
+### Best Model: Logistic Regression
+
+<img width="734" alt="Screen Shot 2022-04-24 at 17 49 27" src="https://user-images.githubusercontent.com/91205382/164998074-08f09f0b-e07d-4e5d-88e1-ecaec8158263.png">
+
+![download-2](https://user-images.githubusercontent.com/91205382/164998232-9100d25c-f2ea-4a83-b800-411c95ff3831.png)
+
+![download-2](https://user-images.githubusercontent.com/91205382/164998238-4984a8f9-ba91-4afb-acb5-f2a5815baaec.png)
+
+
+### Decision Tree: Max Depth 3
+
+<img width="736" alt="Screen Shot 2022-04-24 at 17 54 46" src="https://user-images.githubusercontent.com/91205382/164998262-4d649f28-91d4-4732-b868-e9dfceba5301.png">
+
+<img width="404" alt="Screen Shot 2022-04-24 at 17 55 00" src="https://user-images.githubusercontent.com/91205382/164998268-ae7a171e-ec4a-4d6f-9d65-e143d92cbaaa.png">
+
+
+
+### Random Forest: n_estimators=100, min_samples_leaf=7
+
+<img width="722" alt="Screen Shot 2022-04-24 at 17 58 43" src="https://user-images.githubusercontent.com/91205382/164998405-9dba99ca-5622-4b1d-8a3f-bd3e60cadd5b.png">
+
+![download-3](https://user-images.githubusercontent.com/91205382/164998427-20616a1a-6ad3-4f62-810b-34abc7020737.png)
+
+#### Grid search on random forest
+
+<img width="1095" alt="Screen Shot 2022-04-24 at 18 00 44" src="https://user-images.githubusercontent.com/91205382/164998501-8a3e0932-e468-4844-8f5d-20b396fbc8cd.png">
+
+### Random Forest: n_estimators=50, min_samples_leaf=1
+
+<img width="755" alt="Screen Shot 2022-04-24 at 18 00 56" src="https://user-images.githubusercontent.com/91205382/164998510-a4cc785d-5d00-4d07-a34e-a2e0343d3f40.png">
+
+![download-4](https://user-images.githubusercontent.com/91205382/164998518-cca71891-33c9-4dd3-91bd-147229db00c3.png)
+
