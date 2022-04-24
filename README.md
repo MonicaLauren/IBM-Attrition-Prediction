@@ -78,5 +78,5 @@ This GitHub includes the following documents, which together comprise our projec
 
 <img width="755" alt="Screen Shot 2022-04-24 at 18 00 56" src="https://user-images.githubusercontent.com/91205382/164998510-a4cc785d-5d00-4d07-a34e-a2e0343d3f40.png">
 
-![download-4](https://user-images.githubusercontent.com/91205382/164998518-cca71891-33c9-4dd3-91bd-147229db00c3.png)
+![download-2](https://user-images.githubusercontent.com/91205382/164998562-a0f4f70f-f438-4fde-9617-eb0659412116.png)
 
