@@ -2,6 +2,14 @@
 
 # Summary
 
+![download-2](https://user-images.githubusercontent.com/91205382/164997352-f53ed5f5-b406-458a-ad4d-8f496e443fa6.png)
+
+## What are some of the characteristics of a loyal employee? What about employees who are on their way out?
+
+Using employee-specific data from IBM, these are some of the questions we sought to answer. Or, more specifically, can we model Employee Attrition at all?
+
+
+
 # Repository
 
 This GitHub includes the following documents, which together comprise our project.
